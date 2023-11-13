@@ -1,0 +1,14 @@
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\bin\Debug\net6.0\xthyjdbr lkz 7.exe
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\bin\Debug\net6.0\xthyjdbr lkz 7.deps.json
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\bin\Debug\net6.0\xthyjdbr lkz 7.runtimeconfig.json
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\bin\Debug\net6.0\xthyjdbr lkz 7.dll
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\bin\Debug\net6.0\xthyjdbr lkz 7.pdb
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\obj\Debug\net6.0\xthyjdbr lkz 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\obj\Debug\net6.0\xthyjdbr lkz 7.AssemblyInfoInputs.cache
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\obj\Debug\net6.0\xthyjdbr lkz 7.AssemblyInfo.cs
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\obj\Debug\net6.0\xthyjdbr lkz 7.csproj.CoreCompileInputs.cache
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\obj\Debug\net6.0\xthyjdbr lkz 7.dll
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\obj\Debug\net6.0\refint\xthyjdbr lkz 7.dll
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\obj\Debug\net6.0\xthyjdbr lkz 7.pdb
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\obj\Debug\net6.0\xthyjdbr lkz 7.genruntimeconfig.cache
+C:\Users\kvash\source\repos\xthyjdbr lkz 7\xthyjdbr lkz 7\obj\Debug\net6.0\ref\xthyjdbr lkz 7.dll
